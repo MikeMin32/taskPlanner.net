@@ -1,0 +1,519 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Admin\\Desktop\\Sereda.TaskPlanner\\Sereda.TaskPlanner\\Sereda.TaskPlanner.Domain.Logic.Tests\\Sereda.TaskPlanner.Domain.Logic.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Admin\\Desktop\\Sereda.TaskPlanner\\Sereda.TaskPlanner\\Sereda.TaskPlanner.ConsoleRunner\\Sereda.TaskPlanner.ConsoleRunner.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Sereda.TaskPlanner\\Sereda.TaskPlanner\\Sereda.TaskPlanner.ConsoleRunner\\Sereda.TaskPlanner.ConsoleRunner.csproj",
+        "projectName": "Sereda.TaskPlanner.ConsoleRunner",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\Sereda.TaskPlanner\\Sereda.TaskPlanner\\Sereda.TaskPlanner.ConsoleRunner\\Sereda.TaskPlanner.ConsoleRunner.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\Sereda.TaskPlanner\\Sereda.TaskPlanner\\Sereda.TaskPlanner.ConsoleRunner\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Admin\\Desktop\\Sereda.TaskPlanner\\Sereda.TaskPlanner\\Sereda.TaskPlanner.DataAccess\\Sereda.TaskPlanner.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\Sereda.TaskPlanner\\Sereda.TaskPlanner\\Sereda.TaskPlanner.DataAccess\\Sereda.TaskPlanner.DataAccess.csproj"
+              },
+              "C:\\Users\\Admin\\Desktop\\Sereda.TaskPlanner\\Sereda.TaskPlanner\\Sereda.TaskPlanner.Domain.Logic\\Sereda.TaskPlanner.Domain.Logic.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\Sereda.TaskPlanner\\Sereda.TaskPlanner\\Sereda.TaskPlanner.Domain.Logic\\Sereda.TaskPlanner.Domain.Logic.csproj"
+              },
+              "C:\\Users\\Admin\\Desktop\\Sereda.TaskPlanner\\Sereda.TaskPlanner\\Sereda.TaskPlanner.Domain.Models\\Sereda.TaskPlanner.Domain.Models.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\Sereda.TaskPlanner\\Sereda.TaskPlanner\\Sereda.TaskPlanner.Domain.Models\\Sereda.TaskPlanner.Domain.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.35, 6.0.35]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.35, 6.0.35]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.35, 6.0.35]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.35, 6.0.35]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Admin\\Desktop\\Sereda.TaskPlanner\\Sereda.TaskPlanner\\Sereda.TaskPlanner.DataAccess.Abstractions\\Sereda.TaskPlanner.DataAccess.Abstractions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Sereda.TaskPlanner\\Sereda.TaskPlanner\\Sereda.TaskPlanner.DataAccess.Abstractions\\Sereda.TaskPlanner.DataAccess.Abstractions.csproj",
+        "projectName": "Sereda.TaskPlanner.DataAccess.Abstractions",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\Sereda.TaskPlanner\\Sereda.TaskPlanner\\Sereda.TaskPlanner.DataAccess.Abstractions\\Sereda.TaskPlanner.DataAccess.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\Sereda.TaskPlanner\\Sereda.TaskPlanner\\Sereda.TaskPlanner.DataAccess.Abstractions\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Admin\\Desktop\\Sereda.TaskPlanner\\Sereda.TaskPlanner\\Sereda.TaskPlanner.Domain.Models\\Sereda.TaskPlanner.Domain.Models.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\Sereda.TaskPlanner\\Sereda.TaskPlanner\\Sereda.TaskPlanner.Domain.Models\\Sereda.TaskPlanner.Domain.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.35, 6.0.35]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.35, 6.0.35]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.35, 6.0.35]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Admin\\Desktop\\Sereda.TaskPlanner\\Sereda.TaskPlanner\\Sereda.TaskPlanner.DataAccess\\Sereda.TaskPlanner.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Sereda.TaskPlanner\\Sereda.TaskPlanner\\Sereda.TaskPlanner.DataAccess\\Sereda.TaskPlanner.DataAccess.csproj",
+        "projectName": "Sereda.TaskPlanner.DataAccess",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\Sereda.TaskPlanner\\Sereda.TaskPlanner\\Sereda.TaskPlanner.DataAccess\\Sereda.TaskPlanner.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\Sereda.TaskPlanner\\Sereda.TaskPlanner\\Sereda.TaskPlanner.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Admin\\Desktop\\Sereda.TaskPlanner\\Sereda.TaskPlanner\\Sereda.TaskPlanner.DataAccess.Abstractions\\Sereda.TaskPlanner.DataAccess.Abstractions.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\Sereda.TaskPlanner\\Sereda.TaskPlanner\\Sereda.TaskPlanner.DataAccess.Abstractions\\Sereda.TaskPlanner.DataAccess.Abstractions.csproj"
+              },
+              "C:\\Users\\Admin\\Desktop\\Sereda.TaskPlanner\\Sereda.TaskPlanner\\Sereda.TaskPlanner.Domain.Models\\Sereda.TaskPlanner.Domain.Models.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\Sereda.TaskPlanner\\Sereda.TaskPlanner\\Sereda.TaskPlanner.Domain.Models\\Sereda.TaskPlanner.Domain.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.35, 6.0.35]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.35, 6.0.35]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.35, 6.0.35]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Admin\\Desktop\\Sereda.TaskPlanner\\Sereda.TaskPlanner\\Sereda.TaskPlanner.Domain.Logic.Tests\\Sereda.TaskPlanner.Domain.Logic.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Sereda.TaskPlanner\\Sereda.TaskPlanner\\Sereda.TaskPlanner.Domain.Logic.Tests\\Sereda.TaskPlanner.Domain.Logic.Tests.csproj",
+        "projectName": "Sereda.TaskPlanner.Domain.Logic.Tests",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\Sereda.TaskPlanner\\Sereda.TaskPlanner\\Sereda.TaskPlanner.Domain.Logic.Tests\\Sereda.TaskPlanner.Domain.Logic.Tests.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\Sereda.TaskPlanner\\Sereda.TaskPlanner\\Sereda.TaskPlanner.Domain.Logic.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Admin\\Desktop\\Sereda.TaskPlanner\\Sereda.TaskPlanner\\Sereda.TaskPlanner.ConsoleRunner\\Sereda.TaskPlanner.ConsoleRunner.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\Sereda.TaskPlanner\\Sereda.TaskPlanner\\Sereda.TaskPlanner.ConsoleRunner\\Sereda.TaskPlanner.ConsoleRunner.csproj"
+              },
+              "C:\\Users\\Admin\\Desktop\\Sereda.TaskPlanner\\Sereda.TaskPlanner\\Sereda.TaskPlanner.DataAccess.Abstractions\\Sereda.TaskPlanner.DataAccess.Abstractions.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\Sereda.TaskPlanner\\Sereda.TaskPlanner\\Sereda.TaskPlanner.DataAccess.Abstractions\\Sereda.TaskPlanner.DataAccess.Abstractions.csproj"
+              },
+              "C:\\Users\\Admin\\Desktop\\Sereda.TaskPlanner\\Sereda.TaskPlanner\\Sereda.TaskPlanner.DataAccess\\Sereda.TaskPlanner.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\Sereda.TaskPlanner\\Sereda.TaskPlanner\\Sereda.TaskPlanner.DataAccess\\Sereda.TaskPlanner.DataAccess.csproj"
+              },
+              "C:\\Users\\Admin\\Desktop\\Sereda.TaskPlanner\\Sereda.TaskPlanner\\Sereda.TaskPlanner.Domain.Logic\\Sereda.TaskPlanner.Domain.Logic.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\Sereda.TaskPlanner\\Sereda.TaskPlanner\\Sereda.TaskPlanner.Domain.Logic\\Sereda.TaskPlanner.Domain.Logic.csproj"
+              },
+              "C:\\Users\\Admin\\Desktop\\Sereda.TaskPlanner\\Sereda.TaskPlanner\\Sereda.TaskPlanner.Domain.Models\\Sereda.TaskPlanner.Domain.Models.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\Sereda.TaskPlanner\\Sereda.TaskPlanner\\Sereda.TaskPlanner.Domain.Models\\Sereda.TaskPlanner.Domain.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.5.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.72, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.35, 6.0.35]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.35, 6.0.35]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.35, 6.0.35]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Admin\\Desktop\\Sereda.TaskPlanner\\Sereda.TaskPlanner\\Sereda.TaskPlanner.Domain.Logic\\Sereda.TaskPlanner.Domain.Logic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Sereda.TaskPlanner\\Sereda.TaskPlanner\\Sereda.TaskPlanner.Domain.Logic\\Sereda.TaskPlanner.Domain.Logic.csproj",
+        "projectName": "Sereda.TaskPlanner.Domain.Logic",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\Sereda.TaskPlanner\\Sereda.TaskPlanner\\Sereda.TaskPlanner.Domain.Logic\\Sereda.TaskPlanner.Domain.Logic.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\Sereda.TaskPlanner\\Sereda.TaskPlanner\\Sereda.TaskPlanner.Domain.Logic\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Admin\\Desktop\\Sereda.TaskPlanner\\Sereda.TaskPlanner\\Sereda.TaskPlanner.DataAccess.Abstractions\\Sereda.TaskPlanner.DataAccess.Abstractions.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\Sereda.TaskPlanner\\Sereda.TaskPlanner\\Sereda.TaskPlanner.DataAccess.Abstractions\\Sereda.TaskPlanner.DataAccess.Abstractions.csproj"
+              },
+              "C:\\Users\\Admin\\Desktop\\Sereda.TaskPlanner\\Sereda.TaskPlanner\\Sereda.TaskPlanner.DataAccess\\Sereda.TaskPlanner.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\Sereda.TaskPlanner\\Sereda.TaskPlanner\\Sereda.TaskPlanner.DataAccess\\Sereda.TaskPlanner.DataAccess.csproj"
+              },
+              "C:\\Users\\Admin\\Desktop\\Sereda.TaskPlanner\\Sereda.TaskPlanner\\Sereda.TaskPlanner.Domain.Models\\Sereda.TaskPlanner.Domain.Models.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\Sereda.TaskPlanner\\Sereda.TaskPlanner\\Sereda.TaskPlanner.Domain.Models\\Sereda.TaskPlanner.Domain.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.35, 6.0.35]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.35, 6.0.35]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.35, 6.0.35]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Admin\\Desktop\\Sereda.TaskPlanner\\Sereda.TaskPlanner\\Sereda.TaskPlanner.Domain.Models\\Sereda.TaskPlanner.Domain.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Sereda.TaskPlanner\\Sereda.TaskPlanner\\Sereda.TaskPlanner.Domain.Models\\Sereda.TaskPlanner.Domain.Models.csproj",
+        "projectName": "Sereda.TaskPlanner.Domain.Models",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\Sereda.TaskPlanner\\Sereda.TaskPlanner\\Sereda.TaskPlanner.Domain.Models\\Sereda.TaskPlanner.Domain.Models.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\Sereda.TaskPlanner\\Sereda.TaskPlanner\\Sereda.TaskPlanner.Domain.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.35, 6.0.35]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.35, 6.0.35]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.35, 6.0.35]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

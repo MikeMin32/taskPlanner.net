@@ -1,0 +1,22 @@
+[
+  {
+    "CreationDate": "2024-11-01T17:00:00.5778104+02:00",
+    "DueDate": "2024-12-03T00:00:00",
+    "Priority": 3,
+    "Complexity": 2,
+    "Title": "Labs",
+    "Description": "Make labs with .net",
+    "IsCompleted": false,
+    "id": "05d7327e-0db9-4b9f-9dff-8082968d7353"
+  },
+  {
+    "CreationDate": "2024-11-01T17:29:43.0045555+02:00",
+    "DueDate": "2024-11-02T00:00:00",
+    "Priority": 3,
+    "Complexity": 2,
+    "Title": "Lab",
+    "Description": ".NET Lab",
+    "IsCompleted": false,
+    "id": "be305998-d842-473a-9c67-da3db382a0a6"
+  }
+]

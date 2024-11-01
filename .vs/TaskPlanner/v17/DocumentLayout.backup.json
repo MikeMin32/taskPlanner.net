@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\VNTU\\5 semester\\.NET\\Sereda.TaskPlanner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{696D9BBD-9A58-4E2E-B7B0-0E070165D224}|Sereda.TaskPlanner.Domain.Models\\Sereda.TaskPlanner.Domain.Models.csproj|c:\\vntu\\5 semester\\.net\\sereda.taskplanner\\sereda.taskplanner.domain.models\\enums\\workitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{696D9BBD-9A58-4E2E-B7B0-0E070165D224}|Sereda.TaskPlanner.Domain.Models\\Sereda.TaskPlanner.Domain.Models.csproj|solutionrelative:sereda.taskplanner.domain.models\\enums\\workitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{696D9BBD-9A58-4E2E-B7B0-0E070165D224}|Sereda.TaskPlanner.Domain.Models\\Sereda.TaskPlanner.Domain.Models.csproj|c:\\vntu\\5 semester\\.net\\sereda.taskplanner\\sereda.taskplanner.domain.models\\enums\\complexity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{696D9BBD-9A58-4E2E-B7B0-0E070165D224}|Sereda.TaskPlanner.Domain.Models\\Sereda.TaskPlanner.Domain.Models.csproj|solutionrelative:sereda.taskplanner.domain.models\\enums\\complexity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{696D9BBD-9A58-4E2E-B7B0-0E070165D224}|Sereda.TaskPlanner.Domain.Models\\Sereda.TaskPlanner.Domain.Models.csproj|c:\\vntu\\5 semester\\.net\\sereda.taskplanner\\sereda.taskplanner.domain.models\\enums\\priority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{696D9BBD-9A58-4E2E-B7B0-0E070165D224}|Sereda.TaskPlanner.Domain.Models\\Sereda.TaskPlanner.Domain.Models.csproj|solutionrelative:sereda.taskplanner.domain.models\\enums\\priority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F90430-B4CF-4F28-A157-AB69E055BAE0}|Sereda.TaskPlanner.ConsoleRunner\\Sereda.TaskPlanner.ConsoleRunner.csproj|c:\\vntu\\5 semester\\.net\\sereda.taskplanner\\sereda.taskplanner.consolerunner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F90430-B4CF-4F28-A157-AB69E055BAE0}|Sereda.TaskPlanner.ConsoleRunner\\Sereda.TaskPlanner.ConsoleRunner.csproj|solutionrelative:sereda.taskplanner.consolerunner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C63DFE4C-6149-4FE2-B89E-60FD75928294}|Sereda.TaskPlanner.Domain.Logic.Tests\\Sereda.TaskPlanner.Domain.Logic.Tests.csproj|c:\\vntu\\5 semester\\.net\\sereda.taskplanner\\sereda.taskplanner.domain.logic.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C63DFE4C-6149-4FE2-B89E-60FD75928294}|Sereda.TaskPlanner.Domain.Logic.Tests\\Sereda.TaskPlanner.Domain.Logic.Tests.csproj|solutionrelative:sereda.taskplanner.domain.logic.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{846D0AC0-EB94-4FAC-92FB-A4ECB0C60545}|Sereda.TaskPlanner.Domain.Logic\\Sereda.TaskPlanner.Domain.Logic.csproj|c:\\vntu\\5 semester\\.net\\sereda.taskplanner\\sereda.taskplanner.domain.logic\\simpletaskplanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{846D0AC0-EB94-4FAC-92FB-A4ECB0C60545}|Sereda.TaskPlanner.Domain.Logic\\Sereda.TaskPlanner.Domain.Logic.csproj|solutionrelative:sereda.taskplanner.domain.logic\\simpletaskplanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCED1130-E6E3-4BCE-927A-FE3E52A2A6F9}|Sereda.TaskPlanner.DataAccess.Abstractions\\Sereda.TaskPlanner.DataAccess.Abstractions.csproj|c:\\vntu\\5 semester\\.net\\sereda.taskplanner\\sereda.taskplanner.dataaccess.abstractions\\iworkitemsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCED1130-E6E3-4BCE-927A-FE3E52A2A6F9}|Sereda.TaskPlanner.DataAccess.Abstractions\\Sereda.TaskPlanner.DataAccess.Abstractions.csproj|solutionrelative:sereda.taskplanner.dataaccess.abstractions\\iworkitemsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4BF10FE-6353-4F59-8CA4-D2BFAEABB4DD}|Sereda.TaskPlanner.DataAccess\\Sereda.TaskPlanner.DataAccess.csproj|c:\\vntu\\5 semester\\.net\\sereda.taskplanner\\sereda.taskplanner.dataaccess\\fileworkitemsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4BF10FE-6353-4F59-8CA4-D2BFAEABB4DD}|Sereda.TaskPlanner.DataAccess\\Sereda.TaskPlanner.DataAccess.csproj|solutionrelative:sereda.taskplanner.dataaccess\\fileworkitemsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WorkItem.cs",
+              "DocumentMoniker": "C:\\VNTU\\5 semester\\.NET\\Sereda.TaskPlanner\\Sereda.TaskPlanner.Domain.Models\\Enums\\WorkItem.cs",
+              "RelativeDocumentMoniker": "Sereda.TaskPlanner.Domain.Models\\Enums\\WorkItem.cs",
+              "ToolTip": "C:\\VNTU\\5 semester\\.NET\\Sereda.TaskPlanner\\Sereda.TaskPlanner.Domain.Models\\Enums\\WorkItem.cs",
+              "RelativeToolTip": "Sereda.TaskPlanner.Domain.Models\\Enums\\WorkItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T06:45:20.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Complexity.cs",
+              "DocumentMoniker": "C:\\VNTU\\5 semester\\.NET\\Sereda.TaskPlanner\\Sereda.TaskPlanner.Domain.Models\\Enums\\Complexity.cs",
+              "RelativeDocumentMoniker": "Sereda.TaskPlanner.Domain.Models\\Enums\\Complexity.cs",
+              "ToolTip": "C:\\VNTU\\5 semester\\.NET\\Sereda.TaskPlanner\\Sereda.TaskPlanner.Domain.Models\\Enums\\Complexity.cs",
+              "RelativeToolTip": "Sereda.TaskPlanner.Domain.Models\\Enums\\Complexity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T06:45:18.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Priority.cs",
+              "DocumentMoniker": "C:\\VNTU\\5 semester\\.NET\\Sereda.TaskPlanner\\Sereda.TaskPlanner.Domain.Models\\Enums\\Priority.cs",
+              "RelativeDocumentMoniker": "Sereda.TaskPlanner.Domain.Models\\Enums\\Priority.cs",
+              "ToolTip": "C:\\VNTU\\5 semester\\.NET\\Sereda.TaskPlanner\\Sereda.TaskPlanner.Domain.Models\\Enums\\Priority.cs",
+              "RelativeToolTip": "Sereda.TaskPlanner.Domain.Models\\Enums\\Priority.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T06:45:16.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\VNTU\\5 semester\\.NET\\Sereda.TaskPlanner\\Sereda.TaskPlanner.ConsoleRunner\\Program.cs",
+              "RelativeDocumentMoniker": "Sereda.TaskPlanner.ConsoleRunner\\Program.cs",
+              "ToolTip": "C:\\VNTU\\5 semester\\.NET\\Sereda.TaskPlanner\\Sereda.TaskPlanner.ConsoleRunner\\Program.cs",
+              "RelativeToolTip": "Sereda.TaskPlanner.ConsoleRunner\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T06:45:13.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\VNTU\\5 semester\\.NET\\Sereda.TaskPlanner\\Sereda.TaskPlanner.Domain.Logic.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Sereda.TaskPlanner.Domain.Logic.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\VNTU\\5 semester\\.NET\\Sereda.TaskPlanner\\Sereda.TaskPlanner.Domain.Logic.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "Sereda.TaskPlanner.Domain.Logic.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T06:45:03.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SimpleTaskPlanner.cs",
+              "DocumentMoniker": "C:\\VNTU\\5 semester\\.NET\\Sereda.TaskPlanner\\Sereda.TaskPlanner.Domain.Logic\\SimpleTaskPlanner.cs",
+              "RelativeDocumentMoniker": "Sereda.TaskPlanner.Domain.Logic\\SimpleTaskPlanner.cs",
+              "ToolTip": "C:\\VNTU\\5 semester\\.NET\\Sereda.TaskPlanner\\Sereda.TaskPlanner.Domain.Logic\\SimpleTaskPlanner.cs",
+              "RelativeToolTip": "Sereda.TaskPlanner.Domain.Logic\\SimpleTaskPlanner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T06:44:59.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IWorkItemsRepository.cs",
+              "DocumentMoniker": "C:\\VNTU\\5 semester\\.NET\\Sereda.TaskPlanner\\Sereda.TaskPlanner.DataAccess.Abstractions\\IWorkItemsRepository.cs",
+              "RelativeDocumentMoniker": "Sereda.TaskPlanner.DataAccess.Abstractions\\IWorkItemsRepository.cs",
+              "ToolTip": "C:\\VNTU\\5 semester\\.NET\\Sereda.TaskPlanner\\Sereda.TaskPlanner.DataAccess.Abstractions\\IWorkItemsRepository.cs",
+              "RelativeToolTip": "Sereda.TaskPlanner.DataAccess.Abstractions\\IWorkItemsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T06:44:54.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FileWorkItemsRepository.cs",
+              "DocumentMoniker": "C:\\VNTU\\5 semester\\.NET\\Sereda.TaskPlanner\\Sereda.TaskPlanner.DataAccess\\FileWorkItemsRepository.cs",
+              "RelativeDocumentMoniker": "Sereda.TaskPlanner.DataAccess\\FileWorkItemsRepository.cs",
+              "ToolTip": "C:\\VNTU\\5 semester\\.NET\\Sereda.TaskPlanner\\Sereda.TaskPlanner.DataAccess\\FileWorkItemsRepository.cs",
+              "RelativeToolTip": "Sereda.TaskPlanner.DataAccess\\FileWorkItemsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T06:44:49.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

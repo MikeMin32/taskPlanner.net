@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Sereda.TaskPlanner.DataAccess.Abstractions/1.0.0": {
+        "dependencies": {
+          "Sereda.TaskPlanner.Domain.Models": "1.0.0"
+        },
+        "runtime": {
+          "Sereda.TaskPlanner.DataAccess.Abstractions.dll": {}
+        }
+      },
+      "Sereda.TaskPlanner.Domain.Models/1.0.0": {
+        "runtime": {
+          "Sereda.TaskPlanner.Domain.Models.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sereda.TaskPlanner.DataAccess.Abstractions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Sereda.TaskPlanner.Domain.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

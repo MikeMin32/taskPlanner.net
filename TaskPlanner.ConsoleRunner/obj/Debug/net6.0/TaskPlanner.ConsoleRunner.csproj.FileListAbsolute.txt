@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\Sereda.TaskPlanner\TaskPlanner\TaskPlanner.ConsoleRunner\obj\Debug\net6.0\TaskPlanner.ConsoleRunner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Sereda.TaskPlanner\TaskPlanner\TaskPlanner.ConsoleRunner\obj\Debug\net6.0\TaskPlanner.ConsoleRunner.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Sereda.TaskPlanner\TaskPlanner\TaskPlanner.ConsoleRunner\obj\Debug\net6.0\TaskPlanner.ConsoleRunner.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Sereda.TaskPlanner\TaskPlanner\TaskPlanner.ConsoleRunner\obj\Debug\net6.0\TaskPlanner.ConsoleRunner.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Sereda.TaskPlanner\TaskPlanner\TaskPlanner.ConsoleRunner\obj\Debug\net6.0\TaskPlanner.ConsoleRunner.csproj.AssemblyReference.cache

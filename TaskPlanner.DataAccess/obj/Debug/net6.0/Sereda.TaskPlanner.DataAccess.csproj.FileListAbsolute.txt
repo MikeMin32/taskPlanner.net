@@ -1,0 +1,35 @@
+C:\VNTU\5 semester\.NET\Sereda.TaskPlanner\Sereda.TaskPlanner.DataAccess\bin\Debug\net6.0\Sereda.TaskPlanner.DataAccess.deps.json
+C:\VNTU\5 semester\.NET\Sereda.TaskPlanner\Sereda.TaskPlanner.DataAccess\bin\Debug\net6.0\Sereda.TaskPlanner.DataAccess.dll
+C:\VNTU\5 semester\.NET\Sereda.TaskPlanner\Sereda.TaskPlanner.DataAccess\bin\Debug\net6.0\Sereda.TaskPlanner.DataAccess.pdb
+C:\VNTU\5 semester\.NET\Sereda.TaskPlanner\Sereda.TaskPlanner.DataAccess\bin\Debug\net6.0\Sereda.TaskPlanner.DataAccess.Abstractions.dll
+C:\VNTU\5 semester\.NET\Sereda.TaskPlanner\Sereda.TaskPlanner.DataAccess\bin\Debug\net6.0\Sereda.TaskPlanner.Domain.Models.dll
+C:\VNTU\5 semester\.NET\Sereda.TaskPlanner\Sereda.TaskPlanner.DataAccess\bin\Debug\net6.0\Sereda.TaskPlanner.DataAccess.Abstractions.pdb
+C:\VNTU\5 semester\.NET\Sereda.TaskPlanner\Sereda.TaskPlanner.DataAccess\bin\Debug\net6.0\Sereda.TaskPlanner.Domain.Models.pdb
+C:\VNTU\5 semester\.NET\Sereda.TaskPlanner\Sereda.TaskPlanner.DataAccess\obj\Debug\net6.0\Sereda.TaskPlanner.DataAccess.csproj.AssemblyReference.cache
+C:\VNTU\5 semester\.NET\Sereda.TaskPlanner\Sereda.TaskPlanner.DataAccess\obj\Debug\net6.0\Sereda.TaskPlanner.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\VNTU\5 semester\.NET\Sereda.TaskPlanner\Sereda.TaskPlanner.DataAccess\obj\Debug\net6.0\Sereda.TaskPlanner.DataAccess.AssemblyInfoInputs.cache
+C:\VNTU\5 semester\.NET\Sereda.TaskPlanner\Sereda.TaskPlanner.DataAccess\obj\Debug\net6.0\Sereda.TaskPlanner.DataAccess.AssemblyInfo.cs
+C:\VNTU\5 semester\.NET\Sereda.TaskPlanner\Sereda.TaskPlanner.DataAccess\obj\Debug\net6.0\Sereda.TaskPlanner.DataAccess.csproj.CoreCompileInputs.cache
+C:\VNTU\5 semester\.NET\Sereda.TaskPlanner\Sereda.TaskPlanner.DataAccess\obj\Debug\net6.0\Sereda.TaskPlanner.DataAccess.sourcelink.json
+C:\VNTU\5 semester\.NET\Sereda.TaskPlanner\Sereda.TaskPlanner.DataAccess\obj\Debug\net6.0\Sereda.T.CCF1B0FA.Up2Date
+C:\VNTU\5 semester\.NET\Sereda.TaskPlanner\Sereda.TaskPlanner.DataAccess\obj\Debug\net6.0\Sereda.TaskPlanner.DataAccess.dll
+C:\VNTU\5 semester\.NET\Sereda.TaskPlanner\Sereda.TaskPlanner.DataAccess\obj\Debug\net6.0\refint\Sereda.TaskPlanner.DataAccess.dll
+C:\VNTU\5 semester\.NET\Sereda.TaskPlanner\Sereda.TaskPlanner.DataAccess\obj\Debug\net6.0\Sereda.TaskPlanner.DataAccess.pdb
+C:\VNTU\5 semester\.NET\Sereda.TaskPlanner\Sereda.TaskPlanner.DataAccess\obj\Debug\net6.0\ref\Sereda.TaskPlanner.DataAccess.dll
+C:\Users\Admin\Desktop\Sereda.TaskPlanner\Sereda.TaskPlanner\Sereda.TaskPlanner.DataAccess\bin\Debug\net6.0\Sereda.TaskPlanner.DataAccess.deps.json
+C:\Users\Admin\Desktop\Sereda.TaskPlanner\Sereda.TaskPlanner\Sereda.TaskPlanner.DataAccess\bin\Debug\net6.0\Sereda.TaskPlanner.DataAccess.dll
+C:\Users\Admin\Desktop\Sereda.TaskPlanner\Sereda.TaskPlanner\Sereda.TaskPlanner.DataAccess\bin\Debug\net6.0\Sereda.TaskPlanner.DataAccess.pdb
+C:\Users\Admin\Desktop\Sereda.TaskPlanner\Sereda.TaskPlanner\Sereda.TaskPlanner.DataAccess\bin\Debug\net6.0\Sereda.TaskPlanner.DataAccess.Abstractions.dll
+C:\Users\Admin\Desktop\Sereda.TaskPlanner\Sereda.TaskPlanner\Sereda.TaskPlanner.DataAccess\bin\Debug\net6.0\Sereda.TaskPlanner.Domain.Models.dll
+C:\Users\Admin\Desktop\Sereda.TaskPlanner\Sereda.TaskPlanner\Sereda.TaskPlanner.DataAccess\bin\Debug\net6.0\Sereda.TaskPlanner.DataAccess.Abstractions.pdb
+C:\Users\Admin\Desktop\Sereda.TaskPlanner\Sereda.TaskPlanner\Sereda.TaskPlanner.DataAccess\bin\Debug\net6.0\Sereda.TaskPlanner.Domain.Models.pdb
+C:\Users\Admin\Desktop\Sereda.TaskPlanner\Sereda.TaskPlanner\Sereda.TaskPlanner.DataAccess\obj\Debug\net6.0\Sereda.TaskPlanner.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Sereda.TaskPlanner\Sereda.TaskPlanner\Sereda.TaskPlanner.DataAccess\obj\Debug\net6.0\Sereda.TaskPlanner.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Sereda.TaskPlanner\Sereda.TaskPlanner\Sereda.TaskPlanner.DataAccess\obj\Debug\net6.0\Sereda.TaskPlanner.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Sereda.TaskPlanner\Sereda.TaskPlanner\Sereda.TaskPlanner.DataAccess\obj\Debug\net6.0\Sereda.TaskPlanner.DataAccess.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Sereda.TaskPlanner\Sereda.TaskPlanner\Sereda.TaskPlanner.DataAccess\obj\Debug\net6.0\Sereda.TaskPlanner.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Sereda.TaskPlanner\Sereda.TaskPlanner\Sereda.TaskPlanner.DataAccess\obj\Debug\net6.0\Sereda.T.CCF1B0FA.Up2Date
+C:\Users\Admin\Desktop\Sereda.TaskPlanner\Sereda.TaskPlanner\Sereda.TaskPlanner.DataAccess\obj\Debug\net6.0\Sereda.TaskPlanner.DataAccess.dll
+C:\Users\Admin\Desktop\Sereda.TaskPlanner\Sereda.TaskPlanner\Sereda.TaskPlanner.DataAccess\obj\Debug\net6.0\refint\Sereda.TaskPlanner.DataAccess.dll
+C:\Users\Admin\Desktop\Sereda.TaskPlanner\Sereda.TaskPlanner\Sereda.TaskPlanner.DataAccess\obj\Debug\net6.0\Sereda.TaskPlanner.DataAccess.pdb
+C:\Users\Admin\Desktop\Sereda.TaskPlanner\Sereda.TaskPlanner\Sereda.TaskPlanner.DataAccess\obj\Debug\net6.0\ref\Sereda.TaskPlanner.DataAccess.dll

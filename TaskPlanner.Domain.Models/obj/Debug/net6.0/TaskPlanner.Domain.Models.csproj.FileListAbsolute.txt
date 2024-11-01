@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\Sereda.TaskPlanner\TaskPlanner\TaskPlanner.Domain.Models\bin\Debug\net6.0\TaskPlanner.Domain.Models.deps.json
+C:\Users\Admin\Desktop\Sereda.TaskPlanner\TaskPlanner\TaskPlanner.Domain.Models\bin\Debug\net6.0\TaskPlanner.Domain.Models.dll
+C:\Users\Admin\Desktop\Sereda.TaskPlanner\TaskPlanner\TaskPlanner.Domain.Models\bin\Debug\net6.0\TaskPlanner.Domain.Models.pdb
+C:\Users\Admin\Desktop\Sereda.TaskPlanner\TaskPlanner\TaskPlanner.Domain.Models\obj\Debug\net6.0\TaskPlanner.Domain.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Sereda.TaskPlanner\TaskPlanner\TaskPlanner.Domain.Models\obj\Debug\net6.0\TaskPlanner.Domain.Models.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Sereda.TaskPlanner\TaskPlanner\TaskPlanner.Domain.Models\obj\Debug\net6.0\TaskPlanner.Domain.Models.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Sereda.TaskPlanner\TaskPlanner\TaskPlanner.Domain.Models\obj\Debug\net6.0\TaskPlanner.Domain.Models.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Sereda.TaskPlanner\TaskPlanner\TaskPlanner.Domain.Models\obj\Debug\net6.0\TaskPlanner.Domain.Models.dll
+C:\Users\Admin\Desktop\Sereda.TaskPlanner\TaskPlanner\TaskPlanner.Domain.Models\obj\Debug\net6.0\refint\TaskPlanner.Domain.Models.dll
+C:\Users\Admin\Desktop\Sereda.TaskPlanner\TaskPlanner\TaskPlanner.Domain.Models\obj\Debug\net6.0\TaskPlanner.Domain.Models.pdb
+C:\Users\Admin\Desktop\Sereda.TaskPlanner\TaskPlanner\TaskPlanner.Domain.Models\obj\Debug\net6.0\ref\TaskPlanner.Domain.Models.dll

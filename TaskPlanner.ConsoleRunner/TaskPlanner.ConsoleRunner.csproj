@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TaskPlanner.DataAccess\TaskPlanner.DataAccess.csproj" />
+    <ProjectReference Include="..\TaskPlanner.Domain.Logic\TaskPlanner.Domain.Logic.csproj" />
+    <ProjectReference Include="..\TaskPlanner.Domain.Models\TaskPlanner.Domain.Models.csproj" />
+  </ItemGroup>
+
+</Project>

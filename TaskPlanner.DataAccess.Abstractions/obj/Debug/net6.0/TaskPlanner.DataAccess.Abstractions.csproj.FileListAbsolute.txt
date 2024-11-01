@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Sereda.TaskPlanner\TaskPlanner\TaskPlanner.DataAccess.Abstractions\bin\Debug\net6.0\TaskPlanner.DataAccess.Abstractions.deps.json
+C:\Users\Admin\Desktop\Sereda.TaskPlanner\TaskPlanner\TaskPlanner.DataAccess.Abstractions\bin\Debug\net6.0\TaskPlanner.DataAccess.Abstractions.dll
+C:\Users\Admin\Desktop\Sereda.TaskPlanner\TaskPlanner\TaskPlanner.DataAccess.Abstractions\bin\Debug\net6.0\TaskPlanner.DataAccess.Abstractions.pdb
+C:\Users\Admin\Desktop\Sereda.TaskPlanner\TaskPlanner\TaskPlanner.DataAccess.Abstractions\bin\Debug\net6.0\TaskPlanner.Domain.Models.dll
+C:\Users\Admin\Desktop\Sereda.TaskPlanner\TaskPlanner\TaskPlanner.DataAccess.Abstractions\bin\Debug\net6.0\TaskPlanner.Domain.Models.pdb
+C:\Users\Admin\Desktop\Sereda.TaskPlanner\TaskPlanner\TaskPlanner.DataAccess.Abstractions\obj\Debug\net6.0\TaskPlanner.DataAccess.Abstractions.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Sereda.TaskPlanner\TaskPlanner\TaskPlanner.DataAccess.Abstractions\obj\Debug\net6.0\TaskPlanner.DataAccess.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Sereda.TaskPlanner\TaskPlanner\TaskPlanner.DataAccess.Abstractions\obj\Debug\net6.0\TaskPlanner.DataAccess.Abstractions.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Sereda.TaskPlanner\TaskPlanner\TaskPlanner.DataAccess.Abstractions\obj\Debug\net6.0\TaskPlanner.DataAccess.Abstractions.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Sereda.TaskPlanner\TaskPlanner\TaskPlanner.DataAccess.Abstractions\obj\Debug\net6.0\TaskPlanner.DataAccess.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Sereda.TaskPlanner\TaskPlanner\TaskPlanner.DataAccess.Abstractions\obj\Debug\net6.0\TaskPlan.A8D71730.Up2Date
+C:\Users\Admin\Desktop\Sereda.TaskPlanner\TaskPlanner\TaskPlanner.DataAccess.Abstractions\obj\Debug\net6.0\TaskPlanner.DataAccess.Abstractions.dll
+C:\Users\Admin\Desktop\Sereda.TaskPlanner\TaskPlanner\TaskPlanner.DataAccess.Abstractions\obj\Debug\net6.0\refint\TaskPlanner.DataAccess.Abstractions.dll
+C:\Users\Admin\Desktop\Sereda.TaskPlanner\TaskPlanner\TaskPlanner.DataAccess.Abstractions\obj\Debug\net6.0\TaskPlanner.DataAccess.Abstractions.pdb
+C:\Users\Admin\Desktop\Sereda.TaskPlanner\TaskPlanner\TaskPlanner.DataAccess.Abstractions\obj\Debug\net6.0\ref\TaskPlanner.DataAccess.Abstractions.dll
